@@ -9,3 +9,4 @@ class Solution:
                 total -= nums[left]
                 left += 1
         return 0 if ans == float("inf") else ans
+#https://leetcode.com/problems/minimum-size-subarray-sum/
